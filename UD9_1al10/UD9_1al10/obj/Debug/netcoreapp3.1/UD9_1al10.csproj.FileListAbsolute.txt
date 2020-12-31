@@ -1,0 +1,13 @@
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\bin\Debug\netcoreapp3.1\UD9_1al10.exe
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\bin\Debug\netcoreapp3.1\UD9_1al10.deps.json
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\bin\Debug\netcoreapp3.1\UD9_1al10.runtimeconfig.json
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\bin\Debug\netcoreapp3.1\UD9_1al10.runtimeconfig.dev.json
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\bin\Debug\netcoreapp3.1\UD9_1al10.dll
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\bin\Debug\netcoreapp3.1\UD9_1al10.pdb
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\obj\Debug\netcoreapp3.1\UD9_1al10.csprojAssemblyReference.cache
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\obj\Debug\netcoreapp3.1\UD9_1al10.AssemblyInfoInputs.cache
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\obj\Debug\netcoreapp3.1\UD9_1al10.AssemblyInfo.cs
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\obj\Debug\netcoreapp3.1\UD9_1al10.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\obj\Debug\netcoreapp3.1\UD9_1al10.dll
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\obj\Debug\netcoreapp3.1\UD9_1al10.pdb
+C:\Users\Arnau\source\repos\UD9_1al10\UD9_1al10\obj\Debug\netcoreapp3.1\UD9_1al10.genruntimeconfig.cache
